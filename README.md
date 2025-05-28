@@ -1,6 +1,10 @@
-# FULL_ADDER_SUBTRACTOR
+# FULL ADDER SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
+
+## Name : Lathikeshwaran J
+
+## Reg No: 212222230072
 
 **AIM:**
 
